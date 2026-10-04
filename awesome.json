@@ -1,11 +1,11 @@
 {
-  "topic": "Your Topic",
-  "repo": "ianwieds/awesome-template",
-  "tagline": "A curated list of Your Topic libraries, tools and guides.",
-  "scope": "It is about Your Topic, not just a project that happens to use it.",
-  "accent": "FFA000",
+  "topic": "Browser Agents",
+  "repo": "ianwieds/awesome-browser-agents",
+  "tagline": "Agentic browsers, browser automation frameworks for agents, hosted browser infrastructure and the protocols that connect them.",
+  "scope": "It is about AI agents that drive a web browser, not a general scraper or test tool with no agent story.",
+  "accent": "3B82F6",
   "minStars": 10,
-  "maxInactiveMonths": 0,
+  "maxInactiveMonths": 12,
   "maintainer": { "name": "Ian Wiedenman", "url": "https://github.com/ianwieds" },
-  "heroAlt": "Animated isometric scene for Your Topic."
+  "heroAlt": "Animated isometric scene: an agent cube with an eye-like lens, linked by a pulsing beam, moves a cursor across an upright browser window, clicking tabs and buttons as the page slides to each new layout."
 }
