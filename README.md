@@ -92,6 +92,7 @@ A browser agent is an AI model that reads web pages and acts on them, clicking, 
 - [Chrome DevTools MCP](https://github.com/ChromeDevTools/chrome-devtools-mcp) - MCP server that lets coding agents inspect, debug and drive a live Chrome.
 - [Chrome MCP Server](https://github.com/hangwin/mcp-chrome) - Chrome extension that exposes your own browser to MCP clients.
 - [Cloudflare Playwright MCP](https://github.com/cloudflare/playwright-mcp) - Playwright MCP fork that runs its browser on Cloudflare Browser Rendering.
+- [CurlShot MCP](https://curlshot.com/docs/guides/ai-agents) - Hosted MCP server that lets agents screenshot any web page as an image or PDF.
 - [Firefox DevTools MCP](https://github.com/mozilla/firefox-devtools-mcp) - Mozilla MCP server that lets agents inspect and control Firefox.
 - [Hyperbrowser MCP](https://github.com/hyperbrowserai/mcp) - MCP server for scraping, crawling and browser agents on Hyperbrowser.
 - [MCP Playwright](https://github.com/executeautomation/mcp-playwright) - Playwright MCP server for browser and API automation in Claude, Cursor and Cline.
