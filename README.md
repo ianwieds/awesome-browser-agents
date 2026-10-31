@@ -82,6 +82,7 @@ A browser agent is an AI model that reads web pages and acts on them, clicking, 
 ## MCP servers and CLIs
 
 - [agent-browser](https://github.com/vercel-labs/agent-browser) - Rust CLI from Vercel Labs that gives coding agents compact browser commands.
+- [agent-qa](https://vostride.com) - Browser QA through CLI and MCP with memidex memory and validated self-improvement.
 - [bb-browser](https://github.com/epiral/bb-browser) - CLI and MCP server that lets agents use your logged-in Chrome through site adapters.
 - [Browser Control MCP](https://github.com/eyalzh/browser-control-mcp) - MCP server and Firefox extension for tabs, history and page text.
 - [browser-use-mcp-server](https://github.com/kontext-security/browser-use-mcp-server) - MCP server that runs Browser Use agents for Cursor and other clients.
