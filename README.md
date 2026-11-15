@@ -175,10 +175,10 @@ A browser agent is an AI model that reads web pages and acts on them, clicking, 
 - [Awesome Browser Automation](https://github.com/angrykoala/awesome-browser-automation) - General list of browser automation tools and resources.
 - [Awesome Web Agents](https://github.com/steel-dev/awesome-web-agents) - Steel's list of tools, frameworks and resources for building web agents.
 
+<!-- awesome:footer -->
 ## Contributing
 
 Contributions are welcome. Read the [contribution guidelines](contributing.md) first.
 
-<!-- awesome:maintainer -->
 Maintained by [Ian Wiedenman](https://github.com/ianwieds).
-<!-- /awesome:maintainer -->
+<!-- /awesome:footer -->
