@@ -111,6 +111,7 @@ A browser agent is an AI model that reads web pages and acts on them, clicking, 
 - [Browser Use Cloud](https://cloud.browser-use.com) - Hosted Browser Use agents and stealth browsers behind one API.
 - [Browserbase](https://www.browserbase.com) - Cloud headless browsers for agents with session recording and the Stagehand SDK.
 - [Browserless](https://github.com/browserless/browserless) - Docker image and cloud service that run headless browsers for automation and agents.
+- [Cloudbrowser](https://cloudbrowser.tv) - Persistent Chrome browsers for AI agents with CDP and Live View, in private preview.
 - [Cloudflare Browser Rendering](https://developers.cloudflare.com/browser-rendering/) - Headless Chrome on Cloudflare's network, with Playwright MCP and Stagehand support.
 - [Hyperbrowser](https://www.hyperbrowser.ai) - Cloud browsers for AI agents and apps, with scraping and agent APIs.
 - [Kernel](https://www.kernel.sh) - Browser infrastructure for agents with reusable sessions, anti-bot handling and autoscaling.
